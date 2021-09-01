@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>100DaysOfCode - Tag - JustJordanT</title>
-        <link>http://JustJordanT.com/tags/100daysofcode/</link>
+        <link>http://www.JustJordanT.com/tags/100daysofcode/</link>
         <description>100DaysOfCode - Tag - JustJordanT</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>JordanTay9014@outlook.com (Jordan)</managingEditor>
-            <webMaster>JordanTay9014@outlook.com (Jordan)</webMaster><lastBuildDate>Sat, 09 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://JustJordanT.com/tags/100daysofcode/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>JordanTay9014@outlook.com (Jordan)</webMaster><lastBuildDate>Sat, 09 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://www.JustJordanT.com/tags/100daysofcode/" rel="self" type="application/rss+xml" /><item>
     <title>100DaysOfCode Thoughts</title>
-    <link>http://JustJordanT.com/posts/100daysofcode_thoughts/</link>
+    <link>http://www.JustJordanT.com/posts/100daysofcode_thoughts/</link>
     <pubDate>Sat, 09 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://JustJordanT.com/posts/100daysofcode_thoughts/</guid>
+    <guid>http://www.JustJordanT.com/posts/100daysofcode_thoughts/</guid>
     <description><![CDATA[I have always been interested in computers and programming from a young age, but I never supported my direction, self doubt and all that.
 Python courses always try to give you the basics and nothing more; most courses nowadays do a lot better when it comes to the content.
 I wanted to learn programming on a deeper level, so I decided to buckle down and learn Python from the top. I&rsquo;ve made some small python projects in the past, but nothing too significant, just enough to connect the dots.]]></description>

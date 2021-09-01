@@ -1,44 +1,44 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - JustJordanT</title>
-        <link>http://JustJordanT.com/posts/</link>
+        <link>http://www.JustJordanT.com/posts/</link>
         <description>All Posts | JustJordanT</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>JordanTay9014@outlook.com (Jordan)</managingEditor>
-            <webMaster>JordanTay9014@outlook.com (Jordan)</webMaster><lastBuildDate>Wed, 09 Jun 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://JustJordanT.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>JordanTay9014@outlook.com (Jordan)</webMaster><lastBuildDate>Wed, 09 Jun 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://www.JustJordanT.com/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Getting started with C# 3/5 - String Formatting</title>
-    <link>http://JustJordanT.com/posts/gettingstartedwithcsharp.2/</link>
+    <link>http://www.JustJordanT.com/posts/gettingstartedwithcsharp.2/</link>
     <pubDate>Wed, 09 Jun 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://JustJordanT.com/posts/gettingstartedwithcsharp.2/</guid>
+    <guid>http://www.JustJordanT.com/posts/gettingstartedwithcsharp.2/</guid>
     <description><![CDATA[Hey friends, today I will show you how string formatting works in C#; let&rsquo;s dive in.
 You can follow long with your own code or clone the git repo as well. gettingStartedWIthCsharp - stringFormatting
 Learn By Doing. All right, so let&rsquo;s learn a little .NET CLI as well; we start by making a new .NET project. Now let&rsquo;s create our .NET project.
 //The following will create our console app in the directory, in the string Format.]]></description>
 </item><item>
     <title>Getting started with C# 2/5 - Variables</title>
-    <link>http://JustJordanT.com/posts/gettingstartedwithcsharp.1/</link>
+    <link>http://www.JustJordanT.com/posts/gettingstartedwithcsharp.1/</link>
     <pubDate>Tue, 08 Jun 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://JustJordanT.com/posts/gettingstartedwithcsharp.1/</guid>
+    <guid>http://www.JustJordanT.com/posts/gettingstartedwithcsharp.1/</guid>
     <description><![CDATA[C# Variables Variables are containers for storing data values.
 In C#, there are different types of variables (defined with different keywords), for example:
 int  stores integers (whole numbers) without decimals, such as 123 or 123.  double  stores floating-point numbers, with decimals, such as 19.99 or -19.99.  char  stores single characters, such as &lsquo;a&rsquo; or &lsquo;B&rsquo;. Single quotes surround char values  string  stores text, such as &ldquo;Hello World.]]></description>
 </item><item>
     <title>Getting started with C# 1/5 - Hello World</title>
-    <link>http://JustJordanT.com/posts/gettingstartedwithcsharp.0/</link>
+    <link>http://www.JustJordanT.com/posts/gettingstartedwithcsharp.0/</link>
     <pubDate>Mon, 07 Jun 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://JustJordanT.com/posts/gettingstartedwithcsharp.0/</guid>
+    <guid>http://www.JustJordanT.com/posts/gettingstartedwithcsharp.0/</guid>
     <description><![CDATA[Hey friends!
 If you are like and you realized that C# and the whole .NET ecosystem is fun to work with or you are just getting your feet wet this is fast little series of articles for you to go through to get up and running with C#.
 What is C#? C# is pronounced &ldquo;C-Sharp&rdquo;.
 It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.]]></description>
 </item><item>
     <title>100DaysOfCode Thoughts</title>
-    <link>http://JustJordanT.com/posts/100daysofcode_thoughts/</link>
+    <link>http://www.JustJordanT.com/posts/100daysofcode_thoughts/</link>
     <pubDate>Sat, 09 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>http://JustJordanT.com/posts/100daysofcode_thoughts/</guid>
+    <guid>http://www.JustJordanT.com/posts/100daysofcode_thoughts/</guid>
     <description><![CDATA[I have always been interested in computers and programming from a young age, but I never supported my direction, self doubt and all that.
 Python courses always try to give you the basics and nothing more; most courses nowadays do a lot better when it comes to the content.
 I wanted to learn programming on a deeper level, so I decided to buckle down and learn Python from the top. I&rsquo;ve made some small python projects in the past, but nothing too significant, just enough to connect the dots.]]></description>
