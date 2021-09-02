@@ -1,0 +1,9 @@
+[submodule "my_website_theme"]
+	path = my_website_theme
+	url = https://github.com/JustJordanT/my_website_theme.git
+[submodule "theme/Loveit"]
+	path = theme/Loveit
+	url = https://github.com/JustJordanT/my_website_theme.git
+[submodule "themes/myTheme"]
+	path = themes/myTheme
+	url = https://github.com/JustJordanT/my_website_theme.git
